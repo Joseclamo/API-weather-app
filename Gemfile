@@ -61,3 +61,6 @@ gem 'jquery-rails'
 gem 'httparty'
 #Proteger la API
 gem 'figaro'
+
+gem 'better_errors', group: :development
+gem 'hirb'
